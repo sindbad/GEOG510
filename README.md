@@ -1,6 +1,6 @@
 # GEOG510
 
-## This is a tast.
+## This is a test.
 
 ## Lectures
 
